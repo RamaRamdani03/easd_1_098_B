@@ -76,4 +76,4 @@ int main() {
 // 2. Array dan Linked list
 // 3. Faktor yang mempengaruhi waktu ekseskusi suatu program yaitu ukuran input, algoritma yang digunakan, kompleksitas algoritma, struktur data
 // 4. Merge sort, karena lebih stabil dan konsisten dalam waktu eksekusinya, tetapi alokasi memori tambahan
-// 5. Algoritma yang termasuk ke dalam quadratic adalah Bubblesort, Selection Sort, Insertion Sort, sedangkan yang termasuk dalam longlinear adalah Quick sort, Merge sort
+// 5. Algoritma yang termasuk ke dalam quadratic adalah Bubblesort, Selection Sort, Insertion Sort, sedangkan yang termasuk dalam longlinear adalah Quick sort, Merge sort 
